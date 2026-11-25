@@ -1,6 +1,8 @@
 # Santiago Chávez López (`Lokcis`)
 **Systems Engineer | Full-Stack Developer | IT Infrastructure & Data**
 
+![Visitas al perfil](https://komarev.com/ghpvc/?username=Lokcis&label=Vistas%20al%20perfil&color=1d4ed8&style=flat-square)
+
 ---
 
 ### Sobre mí
@@ -31,6 +33,15 @@ Ingeniero de Sistemas y Tecnólogo en Telecomunicaciones con **7 años de experi
 | **Bot Multi-Empresa en Telegram** | Generación automatizada de cotizaciones y remisiones en PDF con consecutivos e historial de clientes. Desplegado en contenedores con flujo CI/CD. | `Node.js` `TypeScript` `PostgreSQL` `Docker` |
 | **Infraestructura Self-Hosted & Automatización** | Servidores Linux con servicios contenerizados expuestos de forma segura mediante Cloudflare. Automatización contable y comercial que redujo errores operativos a casi cero. | `Linux` `Docker` `Cloudflare` `Power Automate` |
 | **Telemetría IoT en Robot LEGO EV3** | Instalación de Linux embebido sobre EV3 para extracción de telemetría (batería y estado) integrada con Power Automate para alertas a laboratorio. | `Linux` `IoT` `Power Automate` |
+
+---
+
+### Certificaciones
+
+![Ciberseguridad Google](https://img.shields.io/badge/Google-Ciberseguridad%20(200h)-4285F4?style=flat-square&logo=google&logoColor=white)
+![Ciencia de Datos IBM](https://img.shields.io/badge/IBM-Ciencia%20de%20Datos%20(100h)-052FAD?style=flat-square&logo=ibm&logoColor=white)
+![JavaScript freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Algoritmos%20y%20Estructuras%20JS-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white)
+![Diseño Web freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Diseño%20Web%20Responsivo-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white)
 
 ---
 
